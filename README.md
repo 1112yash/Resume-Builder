@@ -41,7 +41,7 @@ npm run client
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/girishgr8/Resume-Builder/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License - see the [License](https://github.com/1112yash/Resume-Builder/blob/master/LICENSE) file for details.
 
 ## Credits :
 
