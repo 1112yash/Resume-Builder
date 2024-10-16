@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div>
       <p class="footer-heart">
-        <p>Made with <a href="https://1112yash.github.io/Resume-Builder/" target="_blank">
+        <p>Made by <a href="https://1112yash.github.io/Resume-Builder/" target="_blank">
           Yash Garg
         </a></p>
         
